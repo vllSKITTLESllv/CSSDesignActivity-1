@@ -1,3 +1,37 @@
 .mylink {
   color: #000;
 }
+
+/* Body classes */
+body {
+}
+
+/* Div Classes */
+
+.grid {
+  margin: 2 2 2 2;
+}
+
+.grid--centered {
+}
+
+.grid--formatted {
+}
+
+.centered {
+  text-align: center;
+}
+
+/* Heading1 classes */
+.heading {
+}
+
+.heading--x-large {
+  font-size: 3.5rem;
+}
+
+.grid__item {
+}
+
+.grid__item--large {
+}
